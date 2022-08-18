@@ -19,7 +19,7 @@
 
 ### [2018](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2001%20-%20Principles%20of%20effective%20writing)
 + [Mingming Guo](http://www.guomm.top), Yunfei Zhang, Feipeng Du, Yanguang Wu, etc."[Silver nanoparticles/polydopamine coated polyvinyl alcohol sponge as an effective and recyclable catalyst for reduction of 4-nitrophenol.](https://doi.org/10.1016/j.matchemphys.2018.12.049)" Materials Chemistry and Physics 225. 
-+ Xianbao Duan, Beiling He, [Mingming Guo](http://www.guomm.top), Zhitian Liu, etc. "Lattice inversion modified embedded atom method for FCC metals.(https://doi.org/10.1016/j.polymertesting.2019.106213)" Computational Materials Science 150:418-423.
++ Xianbao Duan, Beiling He, [Mingming Guo](http://www.guomm.top), Zhitian Liu, etc. "[Lattice inversion modified embedded atom method for FCC metals.](https://doi.org/10.1016/j.polymertesting.2019.106213)" Computational Materials Science 150:418-423.
 
 
 
